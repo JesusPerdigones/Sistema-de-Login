@@ -10,8 +10,8 @@ import { FormsModule } from '@angular/forms';
     <!-- Contenedor principal del formulario de login -->
     <div class="login-container">
       <!-- Encabezado con título y subtítulo -->
-      <h1 class="login-title">Uniofy</h1>
-      <p class="login-subtitle">©2025 Uniofy. | <a href="https://uniofy.com/privacy" class="privacy-link">Políticas de privacidad</a></p>
+      <h1 class="login-title">Empresa</h1>
+      <p class="login-subtitle">©2025 Empresa. | <a href="https://empresa.com/privacy" class="privacy-link">Políticas de privacidad</a></p>
       <!-- Formulario de login con manejo de evento submit -->
       <form (ngSubmit)="onSubmit()">
         <!-- Campo de email -->
