@@ -1,0 +1,233 @@
+/* Estilos Globales */
+/* Reseteo de márgenes y configuración de la fuente base para toda la aplicación */
+body {
+  margin: 0;
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  background-color: #f5f5f5;
+  font-weight: 400;
+}
+
+/* Contenedor principal del formulario de login */
+/* Centra el formulario en la página y le da apariencia de tarjeta con sombra */
+.login-container {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 24px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos del encabezado */
+/* Título principal del formulario de login con fuente en negrita */
+.login-title {
+  font-size: 52px;
+  font-weight: 900;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+/* Estilos del subtítulo */
+/* Texto secundario debajo del título principal con fuente ligera */
+.login-subtitle {
+  text-align: center;
+  color: #666;
+  margin-bottom: 24px;
+  font-size: 10px;
+  font-weight: 300;
+}
+
+/* Estilos del enlace de privacidad */
+/* Configuración base del enlace de políticas de privacidad */
+.privacy-link {
+  color: #666;
+  text-decoration: none;
+  font-size: 10px;
+  font-weight: 300;
+}
+
+/* Efecto hover para el enlace de privacidad */
+/* Añade subrayado y cambia el color al pasar el cursor */
+.privacy-link:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  color: #007bff;
+}
+
+/* Estilos del texto de prueba gratuita */
+/* Formato para el texto informativo sobre el período de prueba */
+.trial-text {
+  text-align: center;
+  color: #666;
+  margin-bottom: 24px;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+/* Contenedor de campos del formulario */
+/* Agrega espaciado entre los elementos del formulario */
+.form-group {
+  margin-bottom: 16px;
+}
+
+/* Etiquetas de los campos del formulario */
+/* Estilo para las etiquetas de los campos de entrada */
+.form-label {
+  display: block;
+  margin-bottom: 8px;
+  color: #333;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/* Estilos de los campos de entrada */
+/* Configuración visual de los campos de texto */
+.form-input {
+  width: 100%;
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #f8f9fa;
+  font-size: 14px;
+  font-weight: 400;
+  box-sizing: border-box;
+}
+
+/* Estilo del texto placeholder */
+/* Formato para el texto de ayuda dentro de los campos de entrada */
+.form-input::placeholder {
+  color: #999;
+  font-weight: 300;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+}
+
+/* Contenedor del checkbox "Recordar sesión" */
+/* Alineación y espaciado del checkbox y su etiqueta */
+.remember-me {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+/* Espaciado del checkbox */
+/* Añade espacio entre el checkbox y su etiqueta */
+.remember-me input {
+  margin-right: 8px;
+}
+
+/* Botón principal de login */
+/* Estilos del botón principal de inicio de sesión */
+.login-button {
+  width: 100%;
+  padding: 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  margin-bottom: 16px;
+}
+
+/* Estado hover del botón de login */
+/* Oscurece el color de fondo al pasar el cursor */
+.login-button:hover {
+  background-color: #0056b3;
+}
+
+/* Línea separadora */
+/* Crea una línea horizontal con texto superpuesto */
+.separator {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 16px 0;
+}
+
+/* Líneas decorativas del separador */
+/* Crea las líneas a ambos lados del texto del separador */
+.separator::before,
+.separator::after {
+  content: '';
+  flex: 1;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Espaciado del texto del separador */
+/* Ajusta el espacio alrededor del texto en el separador */
+.separator span {
+  padding: 0 10px;
+  color: #666;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+/* Botón de certificado digital */
+/* Estilos para el botón secundario de acceso con certificado */
+.digital-cert-button {
+  width: 100%;
+  padding: 12px;
+  background-color: white;
+  color: #007bff;
+  border: 1px solid #007bff;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  margin-bottom: 16px;
+  transition: all 0.3s ease;
+}
+
+/* Estado hover del botón de certificado */
+/* Añade efecto de resplandor al pasar el cursor */
+.digital-cert-button:hover {
+  background-color: #f8f9fa;
+  box-shadow: 0 0 15px rgba(0, 123, 255, 0.5);
+}
+
+/* Estilos específicos del botón de prueba gratuita */
+/* Configuración base para el botón de acceso gratuito */
+.free-trial-button {
+  position: relative;
+}
+
+/* Estado hover del botón de prueba gratuita */
+/* Cambia el color de fondo y texto al pasar el cursor */
+.free-trial-button:hover {
+  background-color: #007bff;
+  color: white;
+  box-shadow: none;
+}
+
+/* Enlace de contraseña olvidada */
+/* Estilos para el enlace de recuperación de contraseña */
+.forgot-password {
+  display: block;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  color: #007bff;
+  text-decoration: none;
+  margin: 16px auto 30px;
+  width: fit-content;
+}
+
+/* Estado hover del enlace de contraseña olvidada */
+/* Añade subrayado al pasar el cursor */
+.forgot-password:hover {
+  text-decoration: underline;
+}
+
+/* Texto divisor */
+/* Estilos para el texto "o" entre opciones de login */
+.divider {
+  text-align: center;
+  margin: 16px 0;
+  color: #666;
+  font-size: 14px;
+  font-weight: 300;
+}
