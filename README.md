@@ -100,10 +100,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para detall
 
 ## 📞 Contacto
 Para preguntas y soporte, por favor contacta a través de:
-- Email: [correo_del_proyecto]
-- Issues de GitHub: [URL_de_issues]
+- Email: jsperdigones@gmail.com
 
 ## 🙏 Agradecimientos
-- Equipo de desarrollo de Angular
-- Contribuidores del proyecto
-- Comunidad de desarrolladores
+🚀 ¡Gracias, GitHub! Por ser nuestro santuario de commits, pull requests y bugs que juramos arreglar "después". Sin ti, nuestras ideas estarían en un USB perdido en el cajón. ❤️🙌 #CodeOn
