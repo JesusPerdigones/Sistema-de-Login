@@ -1,7 +1,7 @@
 # Sistema de Login
 
 ## 📋 Descripción
-Es es una aplicación moderna de autenticación desarrollada con Angular 19. Proporciona una interfaz de usuario intuitiva y profesional para el proceso de inicio de sesión, con múltiples opciones de autenticación incluyendo email/contraseña y certificado digital.
+Es es una aplicación moderna de autenticación desarrollada con Angular. Proporciona una interfaz de usuario intuitiva y profesional para el proceso de inicio de sesión, con múltiples opciones de autenticación incluyendo email/contraseña y certificado digital.
 
 ## 🚀 Características Principales
 - Inicio de sesión con email y contraseña
