@@ -4,9 +4,12 @@
 
 ![Logo](https://github.com/user-attachments/assets/bd2ab5b3-2415-4782-8dcb-aeb222d7b6a2)
 
-[![Angular](https://img.shields.io/badge/Angular-19-DD0031?style=for-the-badge&logo=angular)](https://angular.io/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.6.3-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![RxJS](https://img.shields.io/badge/RxJS-7.8.1-B7178C?style=for-the-badge&logo=reactivex)](https://rxjs.dev/)
+[![Angular](https://img.shields.io/badge/Angular-19.0.6-DD0031?style=flat&logo=angular)](https://angular.io/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.6.3-3178C6?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![Node.js](https://img.shields.io/badge/Node.js-18.0.0+-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![NPM](https://img.shields.io/badge/NPM-9.0.0+-CB3837?style=flat&logo=npm)](https://www.npmjs.com/)
 
 </div>
 
