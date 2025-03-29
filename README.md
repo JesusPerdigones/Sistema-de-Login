@@ -1,5 +1,15 @@
 # Sistema de Login
 
+<div align="center">
+
+![Logo](https://github.com/user-attachments/assets/bd2ab5b3-2415-4782-8dcb-aeb222d7b6a2)
+
+[![Angular](https://img.shields.io/badge/Angular-19-DD0031?style=for-the-badge&logo=angular)](https://angular.io/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.6.3-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![RxJS](https://img.shields.io/badge/RxJS-7.8.1-B7178C?style=for-the-badge&logo=reactivex)](https://rxjs.dev/)
+
+</div>
+
 ## 📋 Descripción
 Es un diseño moderno de autenticación desarrollado con Angular. Proporciona una interfaz de usuario intuitiva y profesional para el proceso de inicio de sesión, con múltiples opciones de autenticación incluyendo email/contraseña y certificado digital.
 
