@@ -111,9 +111,13 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 ## 📄 Licencia
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para detalles
 
+## 👥 Equipo
+
+- **Desarrollo Frontend y Diseño UI/UX**: [Jesús Perdigones]
+
 ## 📞 Contacto
 Para preguntas y soporte, por favor contacta a través de:
-- Email: jsperdigones@gmail.com
+- Email: [jsperdigones@gmail.com]
 
 ## 🙏 Agradecimientos
 🚀 ¡Gracias, GitHub! Por ser nuestro santuario de commits, pull requests y bugs que juramos arreglar "después". Sin ti, nuestras ideas estarían en un USB perdido en el cajón. ❤️🙌 #CodeOn
