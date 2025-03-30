@@ -13,7 +13,7 @@
 
 </div>
 
-## 📋 Descripción
+## 📖 Descripción
 Es un diseño moderno de autenticación desarrollado con Angular. Proporciona una interfaz de usuario intuitiva y profesional para el proceso de inicio de sesión, con múltiples opciones de autenticación incluyendo email/contraseña y certificado digital.
 
 ## 🚀 Características Principales
@@ -100,7 +100,7 @@ El proyecto está en desarrollo activo y se actualiza regularmente con nuevas ca
 - Soporte para múltiples idiomas
 - Tema oscuro
 
-## 👥 Contribución
+## 🤝 Contribución
 Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 1. Fork el proyecto
 2. Crea una rama para tu característica (`git checkout -b feature/AmazingFeature`)
